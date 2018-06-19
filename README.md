@@ -1,6 +1,6 @@
 # test
 
-IT License
+MIT License
 
 Copyright (c) 2018 DATA.GOV.TW / ODTW
 
